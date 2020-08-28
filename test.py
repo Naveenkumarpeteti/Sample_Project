@@ -1,6 +1,6 @@
 import unittest
 import calc
-##########################################3
+############################################
 class TestCalc(unittest.TestCase):
 	
 	def test_add(self):
