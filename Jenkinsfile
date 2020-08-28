@@ -1,14 +1,14 @@
 pipeline{
   agent any
   stages {
-       stage('First stage'){
-         steps {
-              echo 'Inside First step'
-           }
-         }
-       stage('Second stage'){
+      stage('build') {
+            steps {
+                sh 'python calc.py'
+            }
+        }
+       stage('test'){
         steps{
-             echo 'Inside Second step'
+             echo 'python test.py'
              }
          }
        }
