@@ -1,5 +1,5 @@
 #############################################
-####### test has_key
+####### test has_key  s
 def add(x,y):
 	return x+y
 
