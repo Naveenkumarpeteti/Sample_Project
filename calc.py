@@ -1,5 +1,9 @@
 #############################################  
+<<<<<<< HEAD
 ####### test test1  dd dd  dss  fello
+=======
+####### test test1  dd dd  dss in gitlab
+>>>>>>> refs/remotes/origin/master
 def add(x,y):
 	return x+y
 
