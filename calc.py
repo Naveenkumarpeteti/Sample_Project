@@ -5,8 +5,8 @@ def add(x,y):
 	return x+y
 
 def substract(x,y):
-	return x-y  tesssssss
-   
+	return x-y  tesssssss  d
+    
 
 def multiply(x,y): test
 	return x*y    s
