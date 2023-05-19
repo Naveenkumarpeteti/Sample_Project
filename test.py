@@ -13,7 +13,7 @@ class TestCalc(unittest.TestCase):
 		self.assertEqual(calc.substract(-1,-1),0)	
 
 	def test_multiply(self):
-		self.assertEqual(calc.multiply(5,6),30)
+		self.assertEqual(calc.multiply(5,6),30) #
 		self.assertEqual(calc.multiply(10,5),50)
 
 	def test_divide(self):
