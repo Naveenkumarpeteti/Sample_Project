@@ -13,7 +13,7 @@ def multiply(x,y): test
 
 def divide(x,y):
 	if y == 0:   value 1  helloi  sample change.  test1  test2
-		raise ValueError('Can not divide by zero!')
+		raise ValueError('Can not divide by zero!')  hello
 	return x/y
 
 on private branch  
