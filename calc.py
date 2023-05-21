@@ -12,10 +12,14 @@ def multiply(x,y): test
 
 def divide(x,y):
 
+
 	if y == 0:   value 1  helloi  sample change.  test1  test2
 		raise ValueError('Can not divide by zero!')  hello
 
 	if y == 0:   value 1  helloi  sample change.  test1  test2 test
+
+	if y == 0:   value 1  helloi  sample change.  test1  test2 test test3
+
 		raise ValueError('Can not divide by zero!')
 
 	return x/y
