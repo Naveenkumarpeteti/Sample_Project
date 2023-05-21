@@ -9,7 +9,7 @@ class TestCalc(unittest.TestCase):
 		self.assertEqual(calc.add(-1,-1),-2)
 
 	def test_substract(self):
-		self.assertEqual(calc.substract(10,5),5) hai
+		self.assertEqual(calc.substract(10,5),5) haii
 		self.assertEqual(calc.substract(-1,-1),0)	
 
 	def test_multiply(self):
