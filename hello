@@ -1,0 +1,14 @@
+diff --git a/test.py b/test.py
+index d78f2fd..d99f4c5 100644
+--- a/test.py
++++ b/test.py
+@@ -51,9 +51,3 @@ commit 6
+ 
+ commit 7
+ 
+-cimmit 8
+-
+-commit 9
+-
+-commit 10
+-
